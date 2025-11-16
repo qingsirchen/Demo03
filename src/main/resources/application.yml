@@ -1,5 +1,5 @@
 openai:
-  key: sk-0o0CCfRkG34upvq7t3xvVakhIXoI3TEIQLfnJoB5GhRhVfii
+  key: sk-你的apikey
   url: https://api.moonshot.cn/v1/chat/completions   # 官方地址
   model: kimi-k2-turbo-preview
   timeout: 15s
